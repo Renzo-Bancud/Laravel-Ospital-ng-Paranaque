@@ -1,0 +1,8 @@
+1 -admin
+2 -accountants
+3- doctors
+4- laboratorists
+5- nurses
+6- patients
+7 -pharmacists
+8 -receptionist
